@@ -7,6 +7,7 @@ void binarizar(int **mat, int lin, int col) {
                 mat[i][j] = 255;
             } else {
                 mat[i][j] = 0;
+                //add comentarios.
             }
         }
     }
